@@ -9,7 +9,7 @@
 
 **LinguaColor**, web geliştiricileri ve tasarımcılar için **Google Chrome Manifest V3** mimarisi üzerinde geliştirilmiş, yüksek performanslı ve modern bir renk analiz aracıdır. Standart renk seçicilerin aksine, insan gözünün algısına dayalı matematiksel modeller kullanarak renkleri analiz eder.
 
-🔗 **[Chrome Web Mağazası'ndan İndir](https://go.emrecb.com/renk-secici-web-store)**
+🔗 **[Chrome Web Mağazası'ndan İndir: https://go.emrecb.com/renk-secici-web-store](https://go.emrecb.com/renk-secici-web-store)**
 
 ## 🚀 Öne Çıkan Özellikler
 
@@ -76,7 +76,7 @@ Bu proje [GNU](https://www.google.com/search?q=LICENSE) lisansı altında lisans
 
 **LinguaColor** is a high-performance browser utility for developers and designers, built on the **Google Chrome Manifest V3** architecture. Moving beyond standard RGB pickers, it utilizes advanced mathematical modeling to analyze colors based on human perceptual accuracy.
 
-🔗 **[Download from Chrome Web Store](https://go.emrecb.com/color-picker-web-store)**
+🔗 **[Download from Chrome Web Store: https://go.emrecb.com/color-picker-web-store](https://go.emrecb.com/color-picker-web-store)**
 
 ## 🚀 Key Features
 
