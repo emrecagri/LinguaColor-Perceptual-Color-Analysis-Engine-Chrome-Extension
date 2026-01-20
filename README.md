@@ -135,6 +135,17 @@ This project is licensed under the [GNU License](https://www.google.com/search?q
 ---
 
 ## Ekran Görüntüleri
+
+![image](screenshots/tr/1.png)
+![image](screenshots/tr/2.png)
+![image](screenshots/tr/3.png)
+
+---
+
 ## Screenshots
+
+![image](screenshots/en/1.png)
+![image](screenshots/en/2.png)
+![image](screenshots/en/3.png)
 
 
