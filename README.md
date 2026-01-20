@@ -3,9 +3,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store-googlechrome) ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-[Türkçe](#türkçe) | [English](#english) | [Ekran Görüntüleri](#enkran-görüntüleri) | [Screenshots](#screenshots) |
+[Türkçe](#türkçe) | [English](#english) | [Ekran Görüntüleri](#ekran-görüntüleri) | [Screenshots](#screenshots) |
 
-** Türkçe
+## Türkçe
 
 **LinguaColor**, web geliştiricileri ve tasarımcılar için **Google Chrome Manifest V3** mimarisi üzerinde geliştirilmiş, yüksek performanslı ve modern bir renk analiz aracıdır. Standart renk seçicilerin aksine, insan gözünün algısına dayalı matematiksel modeller kullanarak renkleri analiz eder.
 
@@ -68,7 +68,7 @@ Bu proje [GNU](https://www.google.com/search?q=LICENSE) lisansı altında lisans
 
 ---
 
-** English
+## English
 
 # LinguaColor – Perceptual Color Analysis Engine
 
