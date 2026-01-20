@@ -1,0 +1,4 @@
+{
+  "appName": { "message": "LinguaColor - Selector de Color" },
+  "appDesc": { "message": "Identificador de color para accesibilidad (daltonismo) y diseño. Detecta colores en imágenes, videos y texto con precisión." }
+}

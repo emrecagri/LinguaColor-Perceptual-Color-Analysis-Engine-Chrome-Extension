@@ -1,0 +1,15 @@
+body { width: 250px; background: #0f172a; color: white; font-family: sans-serif; padding: 15px; margin: 0; }
+header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #1e293b; padding-bottom: 10px; }
+#t-title { font-weight: bold; }
+#status-text { font-size: 12px; margin-bottom: 15px; }
+.control { margin-bottom: 20px; }
+select { width: 100%; padding: 8px; background: #1e293b; color: white; border: 1px solid #334155; border-radius: 4px; margin-top: 5px; }
+footer { text-align: center; border-top: 1px solid #1e293b; padding-top: 10px; color: #94a3b8; }
+
+/* Switch Tasarımı */
+.switch { position: relative; width: 40px; height: 20px; }
+.switch input { opacity: 0; width: 0; height: 0; }
+.slider { position: absolute; cursor: pointer; inset: 0; background: #334155; border-radius: 20px; transition: .3s; }
+.slider:before { position: absolute; content: ""; height: 14px; width: 14px; left: 3px; bottom: 3px; background: white; border-radius: 50%; transition: .3s; }
+input:checked + .slider { background: #38bdf8; }
+input:checked + .slider:before { transform: translateX(20px); }
